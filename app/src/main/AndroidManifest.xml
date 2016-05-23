@@ -21,7 +21,7 @@
         <activity
             android:name=".activity.MainActivity"
             android:label="JavaWeb Check"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,7 +31,7 @@
         <activity
             android:name=".activity.ChooseFileOrPathActivity"
             android:label="JavaWeb Check"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
